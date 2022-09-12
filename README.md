@@ -5,11 +5,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on :database erd
-- 🌱 I’m currently learning :andirod
-- 👯 I’m looking to collaborate on :a clear mission plan on aumba app
-- 🤔 I’m looking for help with :how to make a database
-- 💬 Ask me about :database
+- 🔭 I’m currently working on :Record video
+- 🌱 I’m currently learning :website
+- 👯 I’m looking to collaborate on :solve any homework problems.
+- 🤔 I’m looking for help with :how to do all the homework
+- 💬 Ask me about :homework
 - 📫 How to reach me: I usually in hub or you can email me Z19970319@gmail.com
 - 😄 Pronouns: cooperation
 - ⚡ Fun fact: The importance of cooperation
