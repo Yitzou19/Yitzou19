@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on :Record video
 - 🌱 I’m currently learning :website
 - 👯 I’m looking to collaborate on :solve any homework problems.
-- 🤔 I’m looking for help with :Different between mysql and sqserver
+- 🤔 I’m looking for help with :Different between mysql and sqlserver
 - 💬 Ask me about :homework
 - 📫 How to reach me: I usually in hub or you can email me Z19970319@gmail.com
 - 😄 Pronouns: cooperation
