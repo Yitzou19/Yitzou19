@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on :Record video
+- 🔭 I’m currently working on : MANY HOMEWORK
 - 🌱 I’m currently learning :website
 - 👯 I’m looking to collaborate on :solve any homework problems.
-- 🤔 I’m looking for help with :Different between mysql and sqlserver
+- 🤔 I’m looking for help with : How to use github
 - 💬 Ask me about :homework
 - 📫 How to reach me: I usually in hub or you can email me Z19970319@gmail.com
 - 😄 Pronouns: cooperation
